@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 🐦 https://twitter.com/AAhmedshareef  
-- 🐦 https://www.linkedin.com/in/amer-ahmed-shareef-77368b15a/  
-- 🐦 https://www.freecodecamp.org/amerahmedshareef
-- 🐦 https://leetcode.com/Amerahmedshareef/
 
 
 <!---
